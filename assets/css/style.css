@@ -1,0 +1,27 @@
+body {
+    color: #777;
+    background: url("../images/wallpaper01.jpeg");
+    background-size: cover
+}
+
+nav {
+    height: 100px;
+}
+
+.navbar-brand {
+    height: 100px;
+    padding: 30px;
+    background: #777;
+}
+
+h3 {
+    background: #4aaaa5;
+    color: white;
+    margin-bottom: 25px
+}
+
+.col-lg {
+    background: #777;
+    margin-bottom: 40px
+}
+
